@@ -58,7 +58,8 @@ For this project, the data is imported into Power BI from the "Data Professional
 data_professional_survey_power_bi/
 ├── Power BI - Final Project.xlsx  # Original raw dataset
 ├── README.md                      # Project overview and instructions
-└── data_professional_survey.pbix  # Power BI file containing the cleaned data, analysis, and visualizations
+├── data_professional_survey.pbix  # Power BI file containing the cleaned data, analysis, and visualizations
+└── data_professional_survey.pbix  # JPG file containing a screenshot of the completed data_professional_survey.pbix Power BI dashboard
 ```
 
 ---
